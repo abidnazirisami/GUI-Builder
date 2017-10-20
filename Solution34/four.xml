@@ -1,0 +1,17 @@
+<UI>
+	
+	<Button>
+		<value>Four</value>
+		<X>300</X>
+		<Y>200</Y>
+		<Color>GREEN</Color>
+		
+	</Button>
+	<EditBox>
+		<Value>Four er text</Value>
+		<X>500</X>
+		<Y>500</Y>
+		<Color>BLUE</Color>
+		<Size>12</Size>
+	</EditBox>
+</UI>

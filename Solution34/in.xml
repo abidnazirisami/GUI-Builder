@@ -1,0 +1,12 @@
+<xml>
+<button value = "Click on me!">
+<x>200</x>
+<y>150</y>
+</button>
+<editBox value = "Hi!">
+<x>400</x>
+<y>150</y>
+</editBox>
+<button value = "Click on me" X="500" Y="150" />
+<size> 10 </size>
+</xml>
